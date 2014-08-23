@@ -4,7 +4,6 @@ Reproducible-Research---Peer-Assessment-2-
 title: "How severe weather events are harmful to population health" 
 author: "Leandro Guerra"
 date: "Saturday, August 23, 2014"
-output: html_document
 ---
 
 ##Synopsis 
