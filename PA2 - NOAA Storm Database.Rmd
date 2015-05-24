@@ -1,7 +1,7 @@
 ---
 title: "How severe weather events are harmful to population health" 
-author: "Leandro Guerra"
-date: "Saturday, August 23, 2014"
+
+date: "05-23-2015"
 output: html_document
 ---
 
