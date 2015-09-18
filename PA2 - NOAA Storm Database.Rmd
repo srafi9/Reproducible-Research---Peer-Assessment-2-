@@ -1,5 +1,5 @@
 ---
-title: "How severe weather events are harmful to population health" 
+title: "How severe weather events are harmful to population health " 
 
 date: "05-23-2015"
 output: html_document
